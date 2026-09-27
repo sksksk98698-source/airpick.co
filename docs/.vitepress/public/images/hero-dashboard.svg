@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 380" width="520" height="380" fill="none">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#f0fdfa" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="teal-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#14b8a6"/>
+      <stop offset="100%" stop-color="#0d9488"/>
+    </linearGradient>
+    <linearGradient id="accent-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+    <linearGradient id="chart-area" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#14b8a6" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#14b8a6" stop-opacity="0.0"/>
+    </linearGradient>
+
+    <!-- Filters -->
+    <filter id="card-shadow" x="-10%" y="-10%" width="120%" height="125%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#0f766e" flood-opacity="0.12"/>
+    </filter>
+    <filter id="badge-shadow" x="-10%" y="-10%" width="120%" height="120%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#14b8a6" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <!-- Ambient Glow Behind Card -->
+  <circle cx="260" cy="190" r="180" fill="#14b8a6" opacity="0.08" filter="blur(40px)"/>
+
+  <!-- Main Tech Telemetry Card Container -->
+  <rect x="20" y="20" width="480" height="340" rx="16" fill="url(#card-grad)" stroke="#ccfbf1" stroke-width="1.5" filter="url(#card-shadow)"/>
+
+  <!-- Card Top Window Bar -->
+  <path d="M20 36 C20 27 27 20 36 20 L484 20 C493 20 500 27 500 36 L500 56 L20 56 Z" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5"/>
+  <circle cx="42" cy="38" r="4.5" fill="#f87171"/>
+  <circle cx="56" cy="38" r="4.5" fill="#fbbf24"/>
+  <circle cx="70" cy="38" r="4.5" fill="#34d399"/>
+
+  <text x="92" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#475569">
+    AirPick · 7×24h 国际链路压测遥测监控台
+  </text>
+
+  <!-- Live Pulse Dot -->
+  <circle cx="435" cy="38" r="3.5" fill="#10b981"/>
+  <circle cx="435" cy="38" r="6.5" fill="#10b981" opacity="0.3"/>
+  <text x="446" y="41" font-family="'SF Mono', Consolas, monospace" font-size="10" font-weight="700" fill="#059669">LIVE</text>
+
+  <!-- 3 Core Metric Panels -->
+  <!-- Metric 1: Peak Bandwidth -->
+  <g transform="translate(40, 72)">
+    <rect width="130" height="74" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1" filter="url(#badge-shadow)"/>
+    <text x="12" y="22" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="600" fill="#64748b">实测峰值速率</text>
+    <text x="12" y="48" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="22" font-weight="800" fill="url(#teal-grad)">2500+</text>
+    <text x="88" y="48" font-family="'SF Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#0d9488">Mbps</text>
+    <text x="12" y="64" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="9" font-weight="600" fill="#10b981">● IEPL 单节点满速</text>
+  </g>
+
+  <!-- Metric 2: Average Latency -->
+  <g transform="translate(195, 72)">
+    <rect width="130" height="74" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1" filter="url(#badge-shadow)"/>
+    <text x="12" y="22" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="600" fill="#64748b">IEPL 专线延迟</text>
+    <text x="12" y="48" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="22" font-weight="800" fill="#0f172a">38.2</text>
+    <text x="74" y="48" font-family="'SF Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#64748b">ms</text>
+    <text x="12" y="64" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="9" font-weight="600" fill="#10b981">● 抖动 ≤ 1.2ms</text>
+  </g>
+
+  <!-- Metric 3: Peak Packet Loss -->
+  <g transform="translate(350, 72)">
+    <rect width="130" height="74" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1" filter="url(#badge-shadow)"/>
+    <text x="12" y="22" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="600" fill="#64748b">晚高峰丢包率</text>
+    <text x="12" y="48" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="22" font-weight="800" fill="#059669">&lt; 0.3</text>
+    <text x="80" y="48" font-family="'SF Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#059669">%</text>
+    <text x="12" y="64" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="9" font-weight="600" fill="#0d9488">● 90 天全天候达标</text>
+  </g>
+
+  <!-- Realtime Latency & Jitter Waveform Chart -->
+  <g transform="translate(40, 160)">
+    <rect width="440" height="96" rx="8" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+    
+    <!-- Grid horizontal lines -->
+    <line x1="12" y1="28" x2="428" y2="28" stroke="#e2e8f0" stroke-dasharray="3 3"/>
+    <line x1="12" y1="56" x2="428" y2="56" stroke="#e2e8f0" stroke-dasharray="3 3"/>
+    <line x1="12" y1="84" x2="428" y2="84" stroke="#e2e8f0" stroke-dasharray="3 3"/>
+
+    <!-- Waveform Area -->
+    <path d="M12 70 Q 60 62, 110 65 T 210 60 T 310 62 T 380 58 T 428 59 L 428 94 L 12 94 Z" fill="url(#chart-area)"/>
+    <!-- Waveform Stroke -->
+    <path d="M12 70 Q 60 62, 110 65 T 210 60 T 310 62 T 380 58 T 428 59" fill="none" stroke="#14b8a6" stroke-width="2.5" stroke-linecap="round"/>
+
+    <!-- Point indicators -->
+    <circle cx="210" cy="60" r="4" fill="#ffffff" stroke="#0d9488" stroke-width="2"/>
+    <circle cx="380" cy="58" r="4" fill="#ffffff" stroke="#0d9488" stroke-width="2"/>
+
+    <!-- Labels -->
+    <text x="18" y="20" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" font-weight="700" fill="#0f766e">
+      晚高峰 20:00 - 23:00 连续 100 包 mtr 采样曲线（平稳无断流）
+    </text>
+    <text x="360" y="20" font-family="'SF Mono', Consolas, monospace" font-size="10" font-weight="600" fill="#64748b">
+      RTT: 38ms
+    </text>
+  </g>
+
+  <!-- Regional Nodes & Capabilities Badges -->
+  <g transform="translate(40, 270)">
+    <!-- Node 1 -->
+    <g transform="translate(0, 0)">
+      <rect width="138" height="34" rx="6" fill="#f0fdfa" stroke="#99f6e4" stroke-width="1"/>
+      <text x="10" y="22" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="600" fill="#0f766e">
+        🇭🇰 香港 IEPL · 28ms
+      </text>
+    </g>
+
+    <!-- Node 2 -->
+    <g transform="translate(150, 0)">
+      <rect width="138" height="34" rx="6" fill="#f0fdfa" stroke="#99f6e4" stroke-width="1"/>
+      <text x="10" y="22" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="600" fill="#0f766e">
+        🇯🇵 东京专线 · 45ms
+      </text>
+    </g>
+
+    <!-- Node 3 -->
+    <g transform="translate(300, 0)">
+      <rect width="140" height="34" rx="6" fill="#f0fdfa" stroke="#99f6e4" stroke-width="1"/>
+      <text x="10" y="22" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="600" fill="#0f766e">
+        🇺🇸 洛杉矶住宅 · 128ms
+      </text>
+    </g>
+  </g>
+
+  <!-- Bottom Verification Footer -->
+  <g transform="translate(40, 318)">
+    <text x="0" y="16" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="600" fill="#64748b">
+      ✅ 原生解锁：ChatGPT · Claude · Netflix 4K · YouTube 4K秒开 · TikTok跨境
+    </text>
+  </g>
+</svg>

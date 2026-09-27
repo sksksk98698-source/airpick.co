@@ -1,0 +1,1730 @@
+{
+  "docs/scenario/ai/chatgpt/chatgpt-plus-subscription-payment-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:10:11.562Z",
+    "chars": 9847,
+    "elapsedSec": "31.9"
+  },
+  "docs/scenario/ai/chatgpt/chatgpt-voice-mode-low-latency-setup.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:10:15.213Z",
+    "chars": 10827,
+    "elapsedSec": "35.6"
+  },
+  "docs/scenario/ai/chatgpt/best-chatgpt-airports-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:10:18.069Z",
+    "chars": 9393,
+    "elapsedSec": "38.5"
+  },
+  "docs/scenario/ai/chatgpt/fix-chatgpt-access-denied-error-1020.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:10:47.499Z",
+    "chars": 4521,
+    "elapsedSec": "35.9"
+  },
+  "docs/scenario/ai/chatgpt/free-chatgpt-mirrors-privacy-risks.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:10:52.791Z",
+    "chars": 8740,
+    "elapsedSec": "37.6"
+  },
+  "docs/scenario/ai/chatgpt/openai-api-developer-proxy-configuration.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:10:53.541Z",
+    "chars": 9090,
+    "elapsedSec": "35.5"
+  },
+  "docs/scenario/ai/chatgpt/sora-video-generation-bandwidth-airports.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:11:19.583Z",
+    "chars": 8299,
+    "elapsedSec": "32.1"
+  },
+  "docs/scenario/ai/chatgpt/test-ip-fraud-score-for-chatgpt.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:11:22.768Z",
+    "chars": 7083,
+    "elapsedSec": "30.0"
+  },
+  "docs/scenario/ai/claude/best-claude-airports-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:11:24.458Z",
+    "chars": 9828,
+    "elapsedSec": "30.9"
+  },
+  "docs/scenario/ai/claude/claude-account-warning-signs-and-mitigation.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:11:49.960Z",
+    "chars": 7308,
+    "elapsedSec": "27.2"
+  },
+  "docs/scenario/ai/claude/claude-artifacts-coding-low-latency-setup.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:11:51.945Z",
+    "chars": 9358,
+    "elapsedSec": "27.5"
+  },
+  "docs/scenario/ai/claude/claude-account-suspension-causes-and-appeal.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:11:55.983Z",
+    "chars": 11199,
+    "elapsedSec": "36.4"
+  },
+  "docs/scenario/ai/claude/claude-vs-chatgpt-risk-control-mechanisms.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:12:26.190Z",
+    "chars": 9999,
+    "elapsedSec": "34.2"
+  },
+  "docs/scenario/ai/claude/claude-pro-subscription-payment-tutorial.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:12:28.507Z",
+    "chars": 10940,
+    "elapsedSec": "38.5"
+  },
+  "docs/scenario/ai/claude/fix-anthropic-api-location-not-supported.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:12:28.939Z",
+    "chars": 9370,
+    "elapsedSec": "33.0"
+  },
+  "docs/scenario/ai/claude/mobile-claude-app-installation-and-anti-detect.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:13:02.277Z",
+    "chars": 9188,
+    "elapsedSec": "36.1"
+  },
+  "docs/scenario/ai/gemini/android-gemini-assistant-replacement-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:13:05.361Z",
+    "chars": 8380,
+    "elapsedSec": "36.9"
+  },
+  "docs/scenario/ai/gemini/best-gemini-airports-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:13:05.787Z",
+    "chars": 9837,
+    "elapsedSec": "36.8"
+  },
+  "docs/scenario/ai/gemini/chatgpt-vs-claude-vs-gemini-proxy-strictness.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:13:26.620Z",
+    "chars": 8518,
+    "elapsedSec": "24.3"
+  },
+  "docs/scenario/ai/gemini/gemini-advanced-google-one-subscription-savings.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:13:41.670Z",
+    "chars": 9036,
+    "elapsedSec": "35.9"
+  },
+  "docs/scenario/ai/gemini/fix-gemini-location-not-supported-error.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:13:42.345Z",
+    "chars": 10055,
+    "elapsedSec": "37.0"
+  },
+  "docs/scenario/ai/gemini/gemini-workspace-integration-office-setup.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:13:58.038Z",
+    "chars": 7950,
+    "elapsedSec": "31.4"
+  },
+  "docs/scenario/ai/gemini/google-ai-studio-developer-api-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:14:17.366Z",
+    "chars": 9477,
+    "elapsedSec": "35.7"
+  },
+  "docs/scenario/ai/gemini/prevent-google-account-lock-cross-region-login.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:14:19.118Z",
+    "chars": 8955,
+    "elapsedSec": "36.8"
+  },
+  "docs/scenario/game/accel/airport-proxy-vs-game-booster-comparison.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:14:32.690Z",
+    "chars": 7935,
+    "elapsedSec": "34.6"
+  },
+  "docs/scenario/game/accel/best-gaming-accel-airports-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:14:49.394Z",
+    "chars": 8601,
+    "elapsedSec": "32.0"
+  },
+  "docs/scenario/game/accel/discord-voice-chat-latency-optimization.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:14:57.976Z",
+    "chars": 7097,
+    "elapsedSec": "38.9"
+  },
+  "docs/scenario/game/accel/game-udp-forwarding-and-full-cone-nat.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:15:08.126Z",
+    "chars": 6536,
+    "elapsedSec": "35.4"
+  },
+  "docs/scenario/game/accel/gaming-nodes-and-server-pairing-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:15:19.660Z",
+    "chars": 8736,
+    "elapsedSec": "30.3"
+  },
+  "docs/scenario/game/accel/gigabit-game-download-speed-up-tips.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:15:33.905Z",
+    "chars": 3987,
+    "elapsedSec": "35.9"
+  },
+  "docs/scenario/game/accel/steam-region-switching-and-red-alert-prevention.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:15:42.033Z",
+    "chars": 8709,
+    "elapsedSec": "33.9"
+  },
+  "docs/scenario/game/accel/switch-ps5-console-gaming-proxy-setup.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:15:57.514Z",
+    "chars": 9729,
+    "elapsedSec": "37.9"
+  },
+  "docs/scenario/game/social/best-social-media-airports-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:16:08.550Z",
+    "chars": 9939,
+    "elapsedSec": "34.6"
+  },
+  "docs/scenario/game/social/facebook-meta-anti-detection-nurturing-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:16:17.875Z",
+    "chars": 8327,
+    "elapsedSec": "35.8"
+  },
+  "docs/scenario/game/social/fix-telegram-connecting-updating-proxy-setup.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:16:34.789Z",
+    "chars": 10016,
+    "elapsedSec": "37.3"
+  },
+  "docs/scenario/game/social/instagram-reels-high-res-proxy-setup.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:16:44.203Z",
+    "chars": 10784,
+    "elapsedSec": "35.7"
+  },
+  "docs/scenario/game/social/social-media-background-battery-saving-tips.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:16:55.302Z",
+    "chars": 8895,
+    "elapsedSec": "37.4"
+  },
+  "docs/scenario/game/social/telegram-privacy-security-hardening-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:17:14.490Z",
+    "chars": 7634,
+    "elapsedSec": "39.7"
+  },
+  "docs/scenario/game/social/twitter-x-media-loading-speed-up-tips.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:17:17.926Z",
+    "chars": 9858,
+    "elapsedSec": "33.7"
+  },
+  "docs/scenario/game/social/whatsapp-foreign-trade-anti-ban-and-stable-network.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:17:33.327Z",
+    "chars": 9579,
+    "elapsedSec": "38.0"
+  },
+  "docs/scenario/streaming/all/best-all-streaming-unblock-airports-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:17:51.185Z",
+    "chars": 9162,
+    "elapsedSec": "36.7"
+  },
+  "docs/scenario/streaming/all/dual-subtitles-and-external-sub-tools.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:17:57.231Z",
+    "chars": 7037,
+    "elapsedSec": "39.3"
+  },
+  "docs/scenario/streaming/all/fix-disney-plus-error-83-error-73.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:18:11.504Z",
+    "chars": 9617,
+    "elapsedSec": "38.2"
+  },
+  "docs/scenario/streaming/all/hbo-max-complete-watching-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:18:23.439Z",
+    "chars": 9093,
+    "elapsedSec": "32.3"
+  },
+  "docs/scenario/streaming/all/japan-korea-streaming-tver-abema-unext-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:18:34.217Z",
+    "chars": 6010,
+    "elapsedSec": "37.0"
+  },
+  "docs/scenario/streaming/all/sni-proxy-dns-unlock-vs-native-ip-unlock.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:18:46.527Z",
+    "chars": 10204,
+    "elapsedSec": "35.0"
+  },
+  "docs/scenario/streaming/all/streaming-account-carpooling-scams-avoidance.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:18:48.201Z",
+    "chars": 7228,
+    "elapsedSec": "24.8"
+  },
+  "docs/scenario/streaming/all/uk-bbc-iplayer-itvx-watching-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:19:11.248Z",
+    "chars": 6181,
+    "elapsedSec": "37.0"
+  },
+  "docs/scenario/streaming/netflix/best-netflix-airports-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:19:16.754Z",
+    "chars": 8125,
+    "elapsedSec": "30.2"
+  },
+  "docs/scenario/streaming/netflix/best-tv-devices-for-netflix-4k-dolby-vision.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:19:26.104Z",
+    "chars": 10236,
+    "elapsedSec": "37.9"
+  },
+  "docs/scenario/streaming/netflix/fix-netflix-proxy-detected-error-m7111-5059.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:19:49.343Z",
+    "chars": 9360,
+    "elapsedSec": "38.1"
+  },
+  "docs/scenario/streaming/netflix/how-to-test-netflix-full-unlock.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:19:49.809Z",
+    "chars": 9735,
+    "elapsedSec": "33.1"
+  },
+  "docs/scenario/streaming/netflix/netflix-cheap-regions-account-ban-risks.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:20:04.518Z",
+    "chars": 11119,
+    "elapsedSec": "38.4"
+  },
+  "docs/scenario/streaming/netflix/netflix-household-sharing-restrictions-bypass.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:20:22.508Z",
+    "chars": 8796,
+    "elapsedSec": "33.2"
+  },
+  "docs/scenario/streaming/netflix/netflix-pc-chrome-force-4k-hevc-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:20:27.505Z",
+    "chars": 7251,
+    "elapsedSec": "37.7"
+  },
+  "docs/scenario/streaming/netflix/netflix-region-libraries-comparison-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:20:41.189Z",
+    "chars": 9228,
+    "elapsedSec": "36.7"
+  },
+  "docs/scenario/streaming/tiktok/best-tiktok-airports-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:21:00.025Z",
+    "chars": 7670,
+    "elapsedSec": "37.5"
+  },
+  "docs/scenario/streaming/tiktok/fix-tiktok-zero-views-network-environment.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:21:04.123Z",
+    "chars": 7858,
+    "elapsedSec": "22.9"
+  },
+  "docs/scenario/streaming/tiktok/fix-tiktok-black-screen-loading-issue.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:21:04.127Z",
+    "chars": 9790,
+    "elapsedSec": "36.6"
+  },
+  "docs/scenario/streaming/tiktok/tiktok-cross-border-compliance-and-legal-redlines.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:21:39.323Z",
+    "chars": 7939,
+    "elapsedSec": "39.3"
+  },
+  "docs/scenario/streaming/tiktok/tiktok-live-streaming-obs-network-setup.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:21:40.568Z",
+    "chars": 3255,
+    "elapsedSec": "36.4"
+  },
+  "docs/scenario/streaming/tiktok/tiktok-matrix-multi-account-anti-detect-browser.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:21:42.028Z",
+    "chars": 10119,
+    "elapsedSec": "37.9"
+  },
+  "docs/scenario/streaming/tiktok/tiktok-southeast-asia-region-nodes-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:22:17.886Z",
+    "chars": 7326,
+    "elapsedSec": "37.3"
+  },
+  "docs/scenario/streaming/tiktok/tiktok-shop-us-static-dedicated-ip-setup.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:22:18.274Z",
+    "chars": 7157,
+    "elapsedSec": "38.9"
+  },
+  "docs/scenario/streaming/youtube/best-youtube-airports-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:22:20.711Z",
+    "chars": 9288,
+    "elapsedSec": "38.7"
+  },
+  "docs/scenario/streaming/youtube/clean-youtube-algorithm-recommendations.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:22:52.705Z",
+    "chars": 7648,
+    "elapsedSec": "34.8"
+  },
+  "docs/scenario/streaming/youtube/fix-youtube-peak-hours-quality-drop.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:22:55.140Z",
+    "chars": 10795,
+    "elapsedSec": "36.9"
+  },
+  "docs/scenario/streaming/youtube/force-youtube-4k-quality-browser-extension.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:22:59.043Z",
+    "chars": 9752,
+    "elapsedSec": "38.3"
+  },
+  "docs/scenario/streaming/youtube/youtube-4k-data-consumption-rate.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:23:26.896Z",
+    "chars": 9383,
+    "elapsedSec": "34.2"
+  },
+  "docs/scenario/streaming/youtube/youtube-podcasts-carplay-offline-setup.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:23:34.949Z",
+    "chars": 8293,
+    "elapsedSec": "39.8"
+  },
+  "docs/scenario/streaming/youtube/youtube-premium-cross-region-subscription.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:23:36.189Z",
+    "chars": 9960,
+    "elapsedSec": "37.1"
+  },
+  "docs/scenario/streaming/youtube/youtube-stats-for-nerds-deep-dive.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:24:00.354Z",
+    "chars": 10832,
+    "elapsedSec": "33.5"
+  },
+  "docs/tech/ip/native/affordable-native-ip-airports-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:24:02.884Z",
+    "chars": 7546,
+    "elapsedSec": "27.9"
+  },
+  "docs/tech/ip/native/best-native-ip-airports-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:24:07.696Z",
+    "chars": 8723,
+    "elapsedSec": "31.5"
+  },
+  "docs/tech/ip/native/how-to-check-if-ip-is-native.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:24:31.561Z",
+    "chars": 8710,
+    "elapsedSec": "23.9"
+  },
+  "docs/tech/ip/native/dual-isp-native-ip-super-unlocking.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:24:33.427Z",
+    "chars": 10079,
+    "elapsedSec": "33.1"
+  },
+  "docs/tech/ip/native/hongkong-vs-taiwan-native-ip-comparison.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:24:35.238Z",
+    "chars": 8674,
+    "elapsedSec": "32.4"
+  },
+  "docs/tech/ip/native/what-is-native-ip-vs-broadcast-ip.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:25:07.151Z",
+    "chars": 8627,
+    "elapsedSec": "31.9"
+  },
+  "docs/tech/ip/native/native-ip-maintenance-and-unlock-loss-fix.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:25:07.392Z",
+    "chars": 8356,
+    "elapsedSec": "35.8"
+  },
+  "docs/tech/ip/native/native-ip-recaptcha-immunity-test.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:25:11.511Z",
+    "chars": 8439,
+    "elapsedSec": "38.1"
+  },
+  "docs/tech/ip/residential/how-to-verify-residential-ip-authenticity.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:25:44.297Z",
+    "chars": 7770,
+    "elapsedSec": "36.9"
+  },
+  "docs/tech/ip/residential/best-residential-and-static-ip-airports-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:25:46.874Z",
+    "chars": 6011,
+    "elapsedSec": "39.7"
+  },
+  "docs/tech/ip/residential/residential-ip-drawbacks-speed-and-latency.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:25:48.689Z",
+    "chars": 9014,
+    "elapsedSec": "37.2"
+  },
+  "docs/tech/ip/residential/rotating-vs-static-residential-ip-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:26:17.724Z",
+    "chars": 7948,
+    "elapsedSec": "29.0"
+  },
+  "docs/tech/ip/residential/residential-ip-working-principles-explained.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:26:22.233Z",
+    "chars": 9309,
+    "elapsedSec": "37.9"
+  },
+  "docs/tech/ip/residential/residential-proxy-pricing-per-gb-analysis.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:26:23.443Z",
+    "chars": 7927,
+    "elapsedSec": "36.6"
+  },
+  "docs/tech/ip/residential/self-built-residential-remote-desktop-evaluation.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:26:44.680Z",
+    "chars": 8832,
+    "elapsedSec": "27.0"
+  },
+  "docs/tech/ip/residential/setup-clean-environment-with-static-residential-ip.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:26:53.677Z",
+    "chars": 9264,
+    "elapsedSec": "31.4"
+  },
+  "docs/tech/line/bgp/best-bgp-transit-airports-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:26:56.609Z",
+    "chars": 8332,
+    "elapsedSec": "33.2"
+  },
+  "docs/tech/line/bgp/bgp-ingress-failure-and-ip-blocking.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:27:15.702Z",
+    "chars": 7938,
+    "elapsedSec": "31.0"
+  },
+  "docs/tech/line/bgp/bgp-load-balancing-and-clash-failover-tuning.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:27:31.234Z",
+    "chars": 11472,
+    "elapsedSec": "37.6"
+  },
+  "docs/tech/line/bgp/bgp-transit-tunnel-encryption-mechanisms.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:27:34.383Z",
+    "chars": 9575,
+    "elapsedSec": "37.8"
+  },
+  "docs/tech/line/bgp/bgp-vs-dedicated-line-real-world-experience.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:27:53.649Z",
+    "chars": 9432,
+    "elapsedSec": "37.9"
+  },
+  "docs/tech/line/bgp/isp-performance-on-bgp-china-telecom-unicom-mobile.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:28:01.560Z",
+    "chars": 8260,
+    "elapsedSec": "27.2"
+  },
+  "docs/tech/line/bgp/gigabit-bgp-transit-large-file-downloads.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:28:07.146Z",
+    "chars": 9095,
+    "elapsedSec": "35.9"
+  },
+  "docs/tech/line/bgp/what-is-bgp-routing-protocol-architecture.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:28:25.058Z",
+    "chars": 8455,
+    "elapsedSec": "31.4"
+  },
+  "docs/tech/line/cn2-gia/best-cn2-gia-airports-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:28:39.147Z",
+    "chars": 7991,
+    "elapsedSec": "37.6"
+  },
+  "docs/tech/line/cn2-gia/cn2-gia-blocking-risks-vs-dedicated-lines.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:28:42.566Z",
+    "chars": 9067,
+    "elapsedSec": "35.4"
+  },
+  "docs/tech/line/cn2-gia/cn2-gia-streaming-single-thread-performance.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:29:03.573Z",
+    "chars": 7602,
+    "elapsedSec": "38.5"
+  },
+  "docs/tech/line/cn2-gia/cn2-gt-vs-cn2-gia-tier-difference-explained.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:29:10.834Z",
+    "chars": 8205,
+    "elapsedSec": "31.7"
+  },
+  "docs/tech/line/cn2-gia/cug-9929-cmin2-vs-telecom-cn2-gia.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:29:20.276Z",
+    "chars": 5889,
+    "elapsedSec": "37.7"
+  },
+  "docs/tech/line/cn2-gia/how-to-verify-cn2-gia-59-43-hops.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:29:41.311Z",
+    "chars": 9875,
+    "elapsedSec": "37.7"
+  },
+  "docs/tech/line/cn2-gia/los-angeles-cn2-gia-ultra-low-latency-benchmark.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:29:47.829Z",
+    "chars": 8654,
+    "elapsedSec": "37.0"
+  },
+  "docs/tech/line/cn2-gia/self-hosted-vps-cn2-gia-vs-airport-nodes.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:29:57.053Z",
+    "chars": 9511,
+    "elapsedSec": "36.8"
+  },
+  "docs/tech/line/iepl/best-iepl-airports-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:30:19.698Z",
+    "chars": 8285,
+    "elapsedSec": "38.4"
+  },
+  "docs/tech/line/iepl/detect-fake-iepl-using-mtr-traceroute.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:30:24.404Z",
+    "chars": 8462,
+    "elapsedSec": "27.3"
+  },
+  "docs/tech/line/iepl/budget-friendly-iepl-plans-selection.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:30:25.024Z",
+    "chars": 10198,
+    "elapsedSec": "37.2"
+  },
+  "docs/tech/line/iepl/iepl-bandwidth-cost-and-pricing-model.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:30:55.916Z",
+    "chars": 6888,
+    "elapsedSec": "36.2"
+  },
+  "docs/tech/line/iepl/iepl-ingress-and-egress-routes-review.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:31:02.058Z",
+    "chars": 6237,
+    "elapsedSec": "37.7"
+  },
+  "docs/tech/line/iepl/iepl-redundancy-disaster-recovery-backup.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:31:05.155Z",
+    "chars": 10409,
+    "elapsedSec": "40.1"
+  },
+  "docs/tech/line/iepl/iepl-single-thread-bottleneck-troubleshooting.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:31:32.415Z",
+    "chars": 7388,
+    "elapsedSec": "36.5"
+  },
+  "docs/tech/line/iplc/best-iplc-airports-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:31:36.942Z",
+    "chars": 9060,
+    "elapsedSec": "31.8"
+  },
+  "docs/tech/line/iepl/what-is-iepl-dedicated-line-architecture.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:31:42.102Z",
+    "chars": 8843,
+    "elapsedSec": "40.0"
+  },
+  "docs/tech/line/iplc/detect-iplc-overselling-and-peak-congestion.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:32:09.381Z",
+    "chars": 7779,
+    "elapsedSec": "37.0"
+  },
+  "docs/tech/line/iplc/iplc-classic-routes-latency-benchmark.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:32:10.187Z",
+    "chars": 8153,
+    "elapsedSec": "28.1"
+  },
+  "docs/tech/line/iplc/enterprise-self-built-iplc-vs-airport-subscription.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:32:11.967Z",
+    "chars": 7371,
+    "elapsedSec": "35.0"
+  },
+  "docs/tech/line/iplc/iplc-for-crypto-trading-and-fintech.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:32:44.881Z",
+    "chars": 9355,
+    "elapsedSec": "34.7"
+  },
+  "docs/tech/line/iplc/iplc-egress-ip-reputation-and-unlocking.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:32:45.825Z",
+    "chars": 7514,
+    "elapsedSec": "36.4"
+  },
+  "docs/tech/line/iplc/iplc-vs-iepl-difference-explained.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:32:53.009Z",
+    "chars": 8303,
+    "elapsedSec": "41.0"
+  },
+  "docs/tech/line/iplc/why-iplc-is-completely-immune-to-gfw.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:33:13.016Z",
+    "chars": 8668,
+    "elapsedSec": "28.1"
+  },
+  "docs/tech/region/hongkong/best-hongkong-airports-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:33:25.322Z",
+    "chars": 9359,
+    "elapsedSec": "39.5"
+  },
+  "docs/tech/region/hongkong/hongkong-bgp-transit-vs-iepl-direct-comparison.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:33:30.593Z",
+    "chars": 9832,
+    "elapsedSec": "37.6"
+  },
+  "docs/tech/region/hongkong/hongkong-datacenter-policy-and-stability-review.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:33:40.473Z",
+    "chars": 8050,
+    "elapsedSec": "27.5"
+  },
+  "docs/tech/region/hongkong/hongkong-hkt-hkbn-home-broadband-nodes.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:33:57.907Z",
+    "chars": 8844,
+    "elapsedSec": "32.6"
+  },
+  "docs/tech/region/hongkong/hongkong-nodes-as-relay-stepping-stone.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:34:04.109Z",
+    "chars": 8321,
+    "elapsedSec": "33.5"
+  },
+  "docs/tech/region/hongkong/hongkong-nodes-limitations-ai-and-services.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:34:12.784Z",
+    "chars": 8401,
+    "elapsedSec": "32.3"
+  },
+  "docs/tech/region/hongkong/north-and-east-china-users-hongkong-nodes-latency.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:34:28.507Z",
+    "chars": 8541,
+    "elapsedSec": "30.6"
+  },
+  "docs/tech/region/hongkong/why-hongkong-nodes-have-lowest-latency.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:34:30.962Z",
+    "chars": 9395,
+    "elapsedSec": "26.9"
+  },
+  "docs/tech/region/japan/anime-fans-guide-japan-nodes-uncut-streaming.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:34:43.387Z",
+    "chars": 8336,
+    "elapsedSec": "30.6"
+  },
+  "docs/tech/region/japan/best-japan-airports-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:35:08.795Z",
+    "chars": 8897,
+    "elapsedSec": "40.3"
+  },
+  "docs/tech/region/japan/japan-datacenter-ecosystem-linode-sakura-idcf.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:35:10.101Z",
+    "chars": 9135,
+    "elapsedSec": "39.1"
+  },
+  "docs/tech/region/japan/japan-nodes-for-chatgpt-and-claude-test.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:35:19.769Z",
+    "chars": 10507,
+    "elapsedSec": "36.4"
+  },
+  "docs/tech/region/japan/japan-nodes-peak-hours-congestion-troubleshooting.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:35:48.197Z",
+    "chars": 9784,
+    "elapsedSec": "39.4"
+  },
+  "docs/tech/region/japan/japan-nodes-unlocking-dmm-pixiv-tver-netflix.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:35:49.673Z",
+    "chars": 7834,
+    "elapsedSec": "39.6"
+  },
+  "docs/tech/region/japan/japan-ntt-ocn-softbank-home-broadband-nodes.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:36:00.116Z",
+    "chars": 964,
+    "elapsedSec": "40.3"
+  },
+  "docs/tech/region/japan/shanghai-tokyo-dedicated-line-latency-test.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:36:26.761Z",
+    "chars": 8513,
+    "elapsedSec": "38.6"
+  },
+  "docs/tech/region/singapore/best-singapore-airports-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:36:29.372Z",
+    "chars": 1763,
+    "elapsedSec": "39.7"
+  },
+  "docs/tech/region/singapore/guangzhou-singapore-dedicated-line-latency-test.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:36:40.586Z",
+    "chars": 9279,
+    "elapsedSec": "40.5"
+  },
+  "docs/tech/region/singapore/one-year-singapore-primary-node-review.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:36:58.976Z",
+    "chars": 6636,
+    "elapsedSec": "29.6"
+  },
+  "docs/tech/region/singapore/north-china-users-singapore-nodes-optimization.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:37:09.135Z",
+    "chars": 1926,
+    "elapsedSec": "42.4"
+  },
+  "docs/tech/region/singapore/singapore-cloud-providers-aws-gcp-singtel-benchmark.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:37:18.795Z",
+    "chars": 8995,
+    "elapsedSec": "38.2"
+  },
+  "docs/tech/region/singapore/singapore-streaming-libraries-subtitles-disney-test.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:37:37.040Z",
+    "chars": 4688,
+    "elapsedSec": "38.1"
+  },
+  "docs/tech/region/singapore/southeast-asia-cross-border-ecommerce-singapore-nodes.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:37:46.100Z",
+    "chars": 8219,
+    "elapsedSec": "37.0"
+  },
+  "docs/tech/region/singapore/why-singapore-nodes-are-all-around-perfect.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:37:47.462Z",
+    "chars": 8482,
+    "elapsedSec": "28.7"
+  },
+  "docs/tech/region/usa/academic-research-ieee-sciencedirect-us-nodes.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:38:07.428Z",
+    "chars": 10121,
+    "elapsedSec": "30.4"
+  },
+  "docs/tech/region/usa/best-usa-airports-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:38:14.157Z",
+    "chars": 7796,
+    "elapsedSec": "28.1"
+  },
+  "docs/tech/region/usa/trans-pacific-cable-latency-reduction-tips.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:38:23.354Z",
+    "chars": 9419,
+    "elapsedSec": "35.9"
+  },
+  "docs/tech/region/usa/us-exclusive-streaming-max-hulu-peacock-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:38:47.423Z",
+    "chars": 9445,
+    "elapsedSec": "40.0"
+  },
+  "docs/tech/region/usa/us-native-ip-fraud-score-and-payment-success.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:38:48.125Z",
+    "chars": 9326,
+    "elapsedSec": "34.0"
+  },
+  "docs/tech/region/usa/us-privacy-laws-five-eyes-and-anonymity.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:38:55.691Z",
+    "chars": 9621,
+    "elapsedSec": "32.3"
+  },
+  "docs/tech/region/usa/why-us-nodes-have-cheapest-bandwidth-pricing.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:39:19.846Z",
+    "chars": 8275,
+    "elapsedSec": "31.7"
+  },
+  "docs/tech/region/usa/us-west-vs-us-east-nodes-latency-benchmark.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:39:25.683Z",
+    "chars": 6188,
+    "elapsedSec": "38.3"
+  },
+  "docs/tutorial/basic/terms/asn-idc-and-isp-network-identification.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:39:34.396Z",
+    "chars": 4773,
+    "elapsedSec": "38.7"
+  },
+  "docs/tutorial/basic/terms/complete-glossary-of-proxy-networking-terms.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:39:52.624Z",
+    "chars": 8551,
+    "elapsedSec": "32.8"
+  },
+  "docs/tutorial/basic/terms/ingress-vs-egress-nodes-concept.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:39:58.878Z",
+    "chars": 7742,
+    "elapsedSec": "24.5"
+  },
+  "docs/tutorial/basic/terms/fake-ip-vs-redir-host-dns-explained.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:40:02.492Z",
+    "chars": 6466,
+    "elapsedSec": "36.8"
+  },
+  "docs/tutorial/basic/terms/node-multiplier-explained-in-depth.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:40:29.445Z",
+    "chars": 7988,
+    "elapsedSec": "36.8"
+  },
+  "docs/tutorial/basic/terms/packet-loss-and-jitter-explained.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:40:34.395Z",
+    "chars": 8872,
+    "elapsedSec": "35.5"
+  },
+  "docs/tutorial/basic/terms/ping-rtt-vs-true-connect-latency-explained.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:40:37.557Z",
+    "chars": 8278,
+    "elapsedSec": "35.1"
+  },
+  "docs/tutorial/basic/terms/tun-tap-vs-system-proxy-modes.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:41:04.408Z",
+    "chars": 9157,
+    "elapsedSec": "35.0"
+  },
+  "docs/tutorial/basic/vs-vpn/airports-vs-traditional-vpn-complete-comparison.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:41:08.018Z",
+    "chars": 10289,
+    "elapsedSec": "33.6"
+  },
+  "docs/tutorial/basic/vs-vpn/expensive-western-vpns-pricing-traps-in-china.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:41:17.174Z",
+    "chars": 8746,
+    "elapsedSec": "39.6"
+  },
+  "docs/tutorial/basic/vs-vpn/future-of-censorship-circumvention-wireguard-quic.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:41:42.355Z",
+    "chars": 7290,
+    "elapsedSec": "37.9"
+  },
+  "docs/tutorial/basic/vs-vpn/privacy-security-vpn-vs-airports-truth.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:41:45.084Z",
+    "chars": 8558,
+    "elapsedSec": "37.1"
+  },
+  "docs/tutorial/basic/vs-vpn/smart-routing-superiority-over-global-vpn.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:41:54.666Z",
+    "chars": 10634,
+    "elapsedSec": "37.5"
+  },
+  "docs/tutorial/basic/vs-vpn/why-vpns-can-never-beat-dedicated-airports-in-speed.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:42:14.523Z",
+    "chars": 6948,
+    "elapsedSec": "19.9"
+  },
+  "docs/tutorial/basic/vs-vpn/vpn-tunnel-encryption-vs-proxy-routing-mechanisms.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:42:14.850Z",
+    "chars": 8837,
+    "elapsedSec": "32.5"
+  },
+  "docs/tutorial/basic/vs-vpn/when-to-still-use-traditional-enterprise-vpn.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:42:23.515Z",
+    "chars": 8323,
+    "elapsedSec": "38.4"
+  },
+  "docs/tutorial/basic/what-is/airport-panel-systems-evolution-sspanel-v2board.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:42:53.788Z",
+    "chars": 5812,
+    "elapsedSec": "38.9"
+  },
+  "docs/tutorial/basic/what-is/airport-business-model-and-costs-breakdown.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:42:55.042Z",
+    "chars": 8031,
+    "elapsedSec": "40.5"
+  },
+  "docs/tutorial/basic/what-is/airport-slang-and-culture-dictionary.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:42:58.595Z",
+    "chars": 8237,
+    "elapsedSec": "35.1"
+  },
+  "docs/tutorial/basic/what-is/airport-vs-self-hosted-vps-cost-benefit.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:43:23.356Z",
+    "chars": 8078,
+    "elapsedSec": "29.6"
+  },
+  "docs/tutorial/basic/what-is/cross-border-network-legal-boundaries-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:43:30.077Z",
+    "chars": 7951,
+    "elapsedSec": "35.0"
+  },
+  "docs/tutorial/basic/what-is/four-reasons-behind-airport-exit-scams.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:43:38.607Z",
+    "chars": 9963,
+    "elapsedSec": "40.0"
+  },
+  "docs/tutorial/basic/what-is/how-airports-work-under-the-hood.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:44:00.449Z",
+    "chars": 8945,
+    "elapsedSec": "37.1"
+  },
+  "docs/tutorial/basic/what-is/what-is-an-airport-proxy-complete-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:44:06.000Z",
+    "chars": 8942,
+    "elapsedSec": "35.9"
+  },
+  "docs/tutorial/compare/line/30-day-line-stability-and-packet-loss-benchmark.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:44:12.233Z",
+    "chars": 10425,
+    "elapsedSec": "33.6"
+  },
+  "docs/tutorial/compare/line/bgp-transit-vs-iepl-dedicated-line-head-to-head.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:44:36.560Z",
+    "chars": 8811,
+    "elapsedSec": "36.1"
+  },
+  "docs/tutorial/compare/line/ladder-ranking-of-proxy-network-lines-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:44:41.326Z",
+    "chars": 8794,
+    "elapsedSec": "29.1"
+  },
+  "docs/tutorial/compare/line/iplc-vs-iepl-technical-evolution-and-tests.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:44:43.735Z",
+    "chars": 5352,
+    "elapsedSec": "37.7"
+  },
+  "docs/tutorial/compare/line/line-selection-decision-tree-by-budget-and-needs.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:45:12.467Z",
+    "chars": 11277,
+    "elapsedSec": "35.9"
+  },
+  "docs/tutorial/compare/line/standard-transit-vs-bgp-multi-carrier-transit.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:45:19.574Z",
+    "chars": 8273,
+    "elapsedSec": "35.8"
+  },
+  "docs/tutorial/compare/line/premium-direct-lines-cn2-gia-and-cug-9929.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:45:20.225Z",
+    "chars": 6709,
+    "elapsedSec": "38.9"
+  },
+  "docs/tutorial/compare/line/why-direct-public-lines-are-worst-in-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:45:44.448Z",
+    "chars": 7606,
+    "elapsedSec": "32.0"
+  },
+  "docs/tutorial/compare/protocol/best-proxy-protocols-complete-comparison-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:45:52.801Z",
+    "chars": 8304,
+    "elapsedSec": "33.2"
+  },
+  "docs/tutorial/compare/protocol/hysteria-2-quic-udp-performance-beast.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:45:59.466Z",
+    "chars": 9347,
+    "elapsedSec": "39.2"
+  },
+  "docs/tutorial/compare/protocol/protocol-power-consumption-and-cpu-benchmark.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:46:19.795Z",
+    "chars": 9549,
+    "elapsedSec": "35.3"
+  },
+  "docs/tutorial/compare/protocol/protocol-selection-matrix-and-cheat-sheet.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:46:26.722Z",
+    "chars": 8748,
+    "elapsedSec": "33.9"
+  },
+  "docs/tutorial/compare/protocol/shadowsocks-ssr-status-and-modern-usage.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:46:36.228Z",
+    "chars": 2822,
+    "elapsedSec": "36.8"
+  },
+  "docs/tutorial/compare/protocol/trojan-protocol-https-camouflage-philosophy.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:46:54.791Z",
+    "chars": 8876,
+    "elapsedSec": "35.0"
+  },
+  "docs/tutorial/compare/protocol/vless-reality-ultimate-camouflage-technology.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:47:05.573Z",
+    "chars": 5706,
+    "elapsedSec": "38.8"
+  },
+  "docs/tutorial/compare/protocol/vmess-protocol-performance-overhead-and-legacy.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:47:15.022Z",
+    "chars": 7955,
+    "elapsedSec": "38.8"
+  },
+  "docs/tutorial/compare/tool/best-proxy-client-matrix-for-all-platforms.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:47:19.666Z",
+    "chars": 7815,
+    "elapsedSec": "24.9"
+  },
+  "docs/tutorial/compare/tool/best-proxy-clients-complete-comparison-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:47:37.280Z",
+    "chars": 9267,
+    "elapsedSec": "31.7"
+  },
+  "docs/tutorial/compare/tool/client-memory-and-cpu-overhead-benchmark.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:47:48.570Z",
+    "chars": 8690,
+    "elapsedSec": "28.9"
+  },
+  "docs/tutorial/compare/tool/clash-verge-rev-vs-v2rayn-windows-battle.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:47:50.465Z",
+    "chars": 10530,
+    "elapsedSec": "35.4"
+  },
+  "docs/tutorial/compare/tool/open-source-proxy-client-supply-chain-security.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:48:09.514Z",
+    "chars": 8701,
+    "elapsedSec": "32.2"
+  },
+  "docs/tutorial/compare/tool/sing-box-rise-will-it-replace-all-clients.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:48:17.699Z",
+    "chars": 7518,
+    "elapsedSec": "27.2"
+  },
+  "docs/tutorial/compare/tool/shadowrocket-vs-quantumult-x-head-to-head.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:48:19.832Z",
+    "chars": 7532,
+    "elapsedSec": "31.3"
+  },
+  "docs/tutorial/compare/tool/why-surge-is-so-expensive-worth-it-or-not.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:48:41.478Z",
+    "chars": 8741,
+    "elapsedSec": "32.0"
+  },
+  "docs/tutorial/usage/buy/airport-purchase-and-registration-complete-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:48:45.873Z",
+    "chars": 7565,
+    "elapsedSec": "26.0"
+  },
+  "docs/tutorial/usage/buy/airport-dashboard-core-features-walkthrough.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:48:51.740Z",
+    "chars": 8635,
+    "elapsedSec": "34.0"
+  },
+  "docs/tutorial/usage/buy/airport-refund-policy-and-dispute-resolution.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:49:16.307Z",
+    "chars": 7620,
+    "elapsedSec": "34.8"
+  },
+  "docs/tutorial/usage/buy/fix-payment-pending-order-not-credited.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:49:24.509Z",
+    "chars": 9208,
+    "elapsedSec": "38.6"
+  },
+  "docs/tutorial/usage/buy/how-to-activate-coupon-code-at-checkout.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:49:29.430Z",
+    "chars": 7422,
+    "elapsedSec": "37.7"
+  },
+  "docs/tutorial/usage/buy/payment-methods-alipay-wechat-usdt-credit-card-compared.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:49:48.243Z",
+    "chars": 7155,
+    "elapsedSec": "31.9"
+  },
+  "docs/tutorial/usage/buy/safe-email-strategy-for-airport-registration.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:49:54.004Z",
+    "chars": 8441,
+    "elapsedSec": "29.5"
+  },
+  "docs/tutorial/usage/buy/understanding-plan-parameters-bandwidth-devices-limits.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:50:01.950Z",
+    "chars": 9825,
+    "elapsedSec": "32.5"
+  },
+  "docs/tutorial/usage/config/allow-lan-proxy-sharing-configuration.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:50:23.662Z",
+    "chars": 5701,
+    "elapsedSec": "35.4"
+  },
+  "docs/tutorial/usage/config/clash-fallback-url-test-auto-switch-setup.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:50:23.885Z",
+    "chars": 8576,
+    "elapsedSec": "29.9"
+  },
+  "docs/tutorial/usage/config/client-advanced-configuration-complete-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:50:38.303Z",
+    "chars": 9192,
+    "elapsedSec": "36.4"
+  },
+  "docs/tutorial/usage/config/client-logs-diagnostics-and-troubleshooting.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:50:57.268Z",
+    "chars": 8775,
+    "elapsedSec": "33.6"
+  },
+  "docs/tutorial/usage/config/cloud-backup-and-sync-proxy-configurations.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:51:00.399Z",
+    "chars": 9613,
+    "elapsedSec": "36.5"
+  },
+  "docs/tutorial/usage/config/custom-routing-rules-whitelist-blacklist-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:51:12.720Z",
+    "chars": 10369,
+    "elapsedSec": "34.4"
+  },
+  "docs/tutorial/usage/config/dns-leak-protection-doh-dot-fake-ip-setup.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:51:29.908Z",
+    "chars": 10604,
+    "elapsedSec": "32.6"
+  },
+  "docs/tutorial/usage/config/fix-wintun-driver-issues-and-nic-conflicts.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:51:38.333Z",
+    "chars": 8567,
+    "elapsedSec": "37.9"
+  },
+  "docs/tutorial/usage/subscribe/airport-subscription-import-complete-tutorial.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:51:47.659Z",
+    "chars": 11029,
+    "elapsedSec": "34.9"
+  },
+  "docs/tutorial/usage/subscribe/auto-update-subscription-interval-settings.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:52:05.964Z",
+    "chars": 9620,
+    "elapsedSec": "36.1"
+  },
+  "docs/tutorial/usage/subscribe/convert-raw-links-to-clash-and-sing-box-config.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:52:14.047Z",
+    "chars": 10803,
+    "elapsedSec": "35.7"
+  },
+  "docs/tutorial/usage/subscribe/fix-subscription-update-failed-0kb-timeout.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:52:23.331Z",
+    "chars": 8824,
+    "elapsedSec": "35.7"
+  },
+  "docs/tutorial/usage/subscribe/node-renaming-and-custom-flag-tags.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:52:26.777Z",
+    "chars": 0,
+    "elapsedSec": "20.8"
+  },
+  "docs/tutorial/usage/subscribe/one-click-import-vs-universal-subscription-url.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:52:44.590Z",
+    "chars": 8492,
+    "elapsedSec": "30.5"
+  },
+  "docs/tutorial/usage/subscribe/sub-store-multiple-subscriptions-aggregation-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:53:00.949Z",
+    "chars": 5838,
+    "elapsedSec": "37.6"
+  },
+  "docs/tutorial/usage/subscribe/subscription-url-security-and-token-reset.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:53:06.366Z",
+    "chars": 10673,
+    "elapsedSec": "39.6"
+  },
+  "docs/help/faq/connect-fail/bypass-campus-and-corporate-dpi-deep-packet-inspection.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:53:23.315Z",
+    "chars": 8823,
+    "elapsedSec": "38.7"
+  },
+  "docs/help/faq/connect-fail/fix-adblocker-and-antivirus-blocking-websocket.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:53:34.647Z",
+    "chars": 8793,
+    "elapsedSec": "33.7"
+  },
+  "docs/help/faq/connect-fail/fix-connected-but-cannot-browse-websites.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:53:44.098Z",
+    "chars": 7453,
+    "elapsedSec": "37.7"
+  },
+  "docs/help/faq/connect-fail/fix-mobile-vpn-profile-corruption-and-conflicts.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:53:54.030Z",
+    "chars": 9268,
+    "elapsedSec": "30.7"
+  },
+  "docs/help/faq/connect-fail/fix-routing-mode-direct-global-rule-mistake.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:54:09.706Z",
+    "chars": 10155,
+    "elapsedSec": "35.1"
+  },
+  "docs/help/faq/connect-fail/fix-switchyomega-conflict-with-system-proxy.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:54:20.946Z",
+    "chars": 10347,
+    "elapsedSec": "36.8"
+  },
+  "docs/help/faq/connect-fail/fix-windows-system-proxy-not-taking-effect.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:54:29.185Z",
+    "chars": 9057,
+    "elapsedSec": "35.2"
+  },
+  "docs/help/faq/connect-fail/flush-dns-cache-windows-mac-chrome-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:54:46.068Z",
+    "chars": 7247,
+    "elapsedSec": "36.4"
+  },
+  "docs/help/faq/slow/best-airports-to-conquer-peak-hours-2026.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:54:48.957Z",
+    "chars": 8773,
+    "elapsedSec": "28.0"
+  },
+  "docs/help/faq/slow/detect-local-isp-throttling-international-bandwidth.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:54:57.027Z",
+    "chars": 7716,
+    "elapsedSec": "27.8"
+  },
+  "docs/help/faq/slow/fix-slow-speed-and-peak-hours-lag-master-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:55:24.459Z",
+    "chars": 8015,
+    "elapsedSec": "38.4"
+  },
+  "docs/help/faq/slow/home-wifi-and-router-bottleneck-troubleshooting.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:55:27.391Z",
+    "chars": 9474,
+    "elapsedSec": "38.4"
+  },
+  "docs/help/faq/slow/iepl-dedicated-lines-cure-peak-hours-lag.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:55:36.895Z",
+    "chars": 10195,
+    "elapsedSec": "39.9"
+  },
+  "docs/help/faq/slow/optimize-tcp-window-and-bbr-congestion-control.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:55:57.623Z",
+    "chars": 11435,
+    "elapsedSec": "33.2"
+  },
+  "docs/help/faq/slow/peak-hours-qos-and-international-bandwidth-congestion.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:56:04.659Z",
+    "chars": 7774,
+    "elapsedSec": "37.3"
+  },
+  "docs/help/faq/slow/switch-to-less-congested-japan-singapore-nodes.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:56:06.833Z",
+    "chars": 6736,
+    "elapsedSec": "29.9"
+  },
+  "docs/help/faq/subscribe-fail/fix-ssl-certificate-validation-error-on-subscription.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:56:26.567Z",
+    "chars": 8832,
+    "elapsedSec": "21.9"
+  },
+  "docs/help/faq/subscribe-fail/chicken-and-egg-problem-update-subscription-via-proxy.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:56:30.049Z",
+    "chars": 7794,
+    "elapsedSec": "32.4"
+  },
+  "docs/help/faq/subscribe-fail/fix-sub-store-syntax-errors-and-sync-timeout.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:56:42.273Z",
+    "chars": 8644,
+    "elapsedSec": "35.4"
+  },
+  "docs/help/faq/subscribe-fail/fix-subscription-update-failed-master-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:57:02.683Z",
+    "chars": 5587,
+    "elapsedSec": "36.1"
+  },
+  "docs/help/faq/subscribe-fail/nodes-replaced-by-announcements-migration-notice.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:57:09.682Z",
+    "chars": 9088,
+    "elapsedSec": "39.6"
+  },
+  "docs/help/faq/subscribe-fail/outdated-client-version-parser-error-fix.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:57:20.268Z",
+    "chars": 5932,
+    "elapsedSec": "38.0"
+  },
+  "docs/help/faq/subscribe-fail/reset-subscription-token-when-compromised.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:57:32.342Z",
+    "chars": 7252,
+    "elapsedSec": "29.7"
+  },
+  "docs/help/faq/subscribe-fail/subconverter-backend-down-switch-to-native.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:57:47.598Z",
+    "chars": 7652,
+    "elapsedSec": "37.9"
+  },
+  "docs/help/faq/timeout/anti-censorship-during-sensitive-periods-gfw-upgrade.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:57:59.420Z",
+    "chars": 7885,
+    "elapsedSec": "39.1"
+  },
+  "docs/help/faq/timeout/antivirus-and-firewall-blocking-proxy-core.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:58:04.315Z",
+    "chars": 8197,
+    "elapsedSec": "32.0"
+  },
+  "docs/help/faq/timeout/check-data-quota-and-plan-expiration-status.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:58:19.825Z",
+    "chars": 8682,
+    "elapsedSec": "32.2"
+  },
+  "docs/help/faq/timeout/diagnose-local-isp-network-outage-first.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:58:29.490Z",
+    "chars": 8227,
+    "elapsedSec": "30.1"
+  },
+  "docs/help/faq/timeout/fix-all-nodes-timeout-complete-troubleshooting-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:58:42.855Z",
+    "chars": 0,
+    "elapsedSec": "38.5"
+  },
+  "docs/help/faq/timeout/fix-port-conflict-and-local-listen-failure.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:58:56.142Z",
+    "chars": 10081,
+    "elapsedSec": "36.3"
+  },
+  "docs/help/faq/timeout/resubscribe-and-refresh-stale-nodes.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:59:00.091Z",
+    "chars": 8988,
+    "elapsedSec": "30.6"
+  },
+  "docs/help/faq/timeout/system-time-out-of-sync-tls-handshake-failed.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:59:17.879Z",
+    "chars": 9867,
+    "elapsedSec": "35.0"
+  },
+  "docs/help/guide/buying/avoid-fake-customer-service-and-unauthorized-resellers.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:59:33.126Z",
+    "chars": 8868,
+    "elapsedSec": "37.0"
+  },
+  "docs/help/guide/buying/beware-of-unfair-tos-terms-and-account-termination.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:59:39.050Z",
+    "chars": 10253,
+    "elapsedSec": "39.0"
+  },
+  "docs/help/guide/buying/five-questions-checklist-before-buying-airports.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T04:59:54.128Z",
+    "chars": 8991,
+    "elapsedSec": "36.2"
+  },
+  "docs/help/guide/buying/free-trial-honeytrap-vs-paid-tier-degradation.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:00:02.916Z",
+    "chars": 8997,
+    "elapsedSec": "29.8"
+  },
+  "docs/help/guide/buying/hidden-connection-and-device-limits-audit.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:00:18.331Z",
+    "chars": 10321,
+    "elapsedSec": "39.3"
+  },
+  "docs/help/guide/buying/lifetime-membership-scams-and-financial-collapse.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:00:32.815Z",
+    "chars": 9092,
+    "elapsedSec": "38.7"
+  },
+  "docs/help/guide/buying/ten-essential-tips-to-avoid-airport-buying-traps.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:00:35.647Z",
+    "chars": 9473,
+    "elapsedSec": "32.7"
+  },
+  "docs/help/guide/buying/unmasking-fake-bandwidth-and-severe-overselling.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:00:56.952Z",
+    "chars": 9245,
+    "elapsedSec": "38.6"
+  },
+  "docs/help/guide/fake-website/anti-censorship-landing-pages-bookmarking-tips.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:01:06.937Z",
+    "chars": 8582,
+    "elapsedSec": "31.3"
+  },
+  "docs/help/guide/fake-website/airpick-verified-airport-official-directory.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:01:07.933Z",
+    "chars": 9073,
+    "elapsedSec": "35.1"
+  },
+  "docs/help/guide/fake-website/cloned-airport-phishing-industry-unmasked.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:01:38.301Z",
+    "chars": 9314,
+    "elapsedSec": "41.3"
+  },
+  "docs/help/guide/fake-website/fake-clash-official-site-trojan-malware-warning.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:01:38.921Z",
+    "chars": 8408,
+    "elapsedSec": "31.0"
+  },
+  "docs/help/guide/fake-website/emergency-sop-after-falling-for-fake-airport-site.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:01:46.972Z",
+    "chars": 8303,
+    "elapsedSec": "40.0"
+  },
+  "docs/help/guide/fake-website/four-golden-rules-to-verify-authentic-airport-domain.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:02:16.376Z",
+    "chars": 10964,
+    "elapsedSec": "38.1"
+  },
+  "docs/help/guide/fake-website/how-to-spot-fake-cloned-airport-websites.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:02:17.332Z",
+    "chars": 8551,
+    "elapsedSec": "38.4"
+  },
+  "docs/help/guide/fake-website/search-engine-sponsored-ads-scam-clones-exposed.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:02:26.814Z",
+    "chars": 7757,
+    "elapsedSec": "39.8"
+  },
+  "docs/help/guide/scam/airport-scam-risk-scoring-matrix-airpick.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:02:50.223Z",
+    "chars": 10064,
+    "elapsedSec": "33.8"
+  },
+  "docs/help/guide/scam/database-leak-and-internal-sabotage-disasters.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:02:52.057Z",
+    "chars": 8562,
+    "elapsedSec": "34.7"
+  },
+  "docs/help/guide/scam/deep-discount-scam-buy-one-year-get-one-free.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:03:03.071Z",
+    "chars": 9528,
+    "elapsedSec": "36.3"
+  },
+  "docs/help/guide/scam/dual-airport-redundancy-disaster-preparedness.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:03:21.086Z",
+    "chars": 8024,
+    "elapsedSec": "30.9"
+  },
+  "docs/help/guide/scam/historical-famous-airport-exit-scams-postmortem.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:03:28.387Z",
+    "chars": 8361,
+    "elapsedSec": "36.3"
+  },
+  "docs/help/guide/scam/how-to-chargeback-and-dispute-after-airport-scam.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:03:41.687Z",
+    "chars": 7856,
+    "elapsedSec": "38.6"
+  },
+  "docs/help/guide/scam/ten-warning-signs-before-airport-exit-scam.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:03:58.656Z",
+    "chars": 9160,
+    "elapsedSec": "30.3"
+  },
+  "docs/help/guide/scam/telegram-group-mute-and-silent-mode-risk-audit.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:03:59.048Z",
+    "chars": 8036,
+    "elapsedSec": "38.0"
+  },
+  "docs/help/guide/security/can-airports-see-passwords-and-credit-cards.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:04:20.986Z",
+    "chars": 8324,
+    "elapsedSec": "39.3"
+  },
+  "docs/help/guide/security/complete-guide-to-proxy-security-and-privacy-protection.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:04:37.800Z",
+    "chars": 9992,
+    "elapsedSec": "39.1"
+  },
+  "docs/help/guide/security/compliance-and-legal-redlines-for-cross-border-users.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:04:40.621Z",
+    "chars": 7846,
+    "elapsedSec": "41.6"
+  },
+  "docs/help/guide/security/dns-leak-investigation-and-remediation.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:04:43.394Z",
+    "chars": 7764,
+    "elapsedSec": "22.4"
+  },
+  "docs/help/guide/security/fake-root-ca-certificates-and-ssl-interception.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:05:13.549Z",
+    "chars": 10343,
+    "elapsedSec": "35.7"
+  },
+  "docs/help/guide/security/public-free-nodes-and-honeypot-surveillance-risks.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:05:15.600Z",
+    "chars": 8413,
+    "elapsedSec": "35.0"
+  },
+  "docs/help/guide/security/two-factor-authentication-2fa-setup-guide.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:05:22.819Z",
+    "chars": 9572,
+    "elapsedSec": "39.4"
+  },
+  "docs/help/guide/security/webrtc-ip-leak-risks-and-browser-plugins-fix.md": {
+    "status": "done",
+    "timestamp": "2026-09-27T05:05:50.756Z",
+    "chars": 7760,
+    "elapsedSec": "37.2"
+  }
+}

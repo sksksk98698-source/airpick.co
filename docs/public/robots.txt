@@ -1,0 +1,49 @@
+# ==============================================================================
+# AirPick (airpick.co) - 搜索引擎网络爬虫抓取规则 (Robots.txt)
+# 官方正式主域名: https://airpick.co/
+# 站点地图: https://airpick.co/sitemap.xml
+# ==============================================================================
+
+User-agent: *
+Allow: /
+Allow: /airport/
+Allow: /client/
+Allow: /scenario/
+Allow: /tech/
+Allow: /tutorial/
+Allow: /help/
+Allow: /reviews/
+Allow: /vpn/
+Allow: /jichang/
+Allow: /clash/
+Allow: /nodes/
+Allow: /tizi/
+Allow: /free/
+Allow: /brands/
+
+# 明确支持 Googlebot
+User-agent: Googlebot
+Allow: /
+
+# 明确支持 Bing 搜索爬虫
+User-agent: bingbot
+Allow: /
+
+# 明确支持 百度 爬虫
+User-agent: Baiduspider
+Allow: /
+
+# 明确支持 神马搜索 / UC / 夸克 爬虫 (yisouspider)
+User-agent: yisouspider
+Allow: /
+
+# 明确支持 360 搜索爬虫
+User-agent: 360Spider
+Allow: /
+
+# 明确支持 搜狗 爬虫
+User-agent: Sogouspider
+Allow: /
+
+# 站点官方地图索引 (唯一正式主域名，禁止出现任何测试/localhost/第三方临时域名)
+Sitemap: https://airpick.co/sitemap.xml

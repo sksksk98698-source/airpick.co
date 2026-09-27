@@ -1,0 +1,254 @@
+:root {
+  /* 品牌色 - Teal 系 */
+  --vp-c-brand-1: #14b8a6;
+  --vp-c-brand-2: #0d9488;
+  --vp-c-brand-3: #0f766e;
+  --vp-c-brand-soft: rgba(20, 184, 166, 0.14);
+
+  /* 浅色模式 - 纯白极简 */
+  --vp-c-bg: #ffffff;
+  --vp-c-bg-alt: #f9fafb;
+  --vp-c-bg-soft: #f3f4f6;
+  --vp-c-divider: #e5e7eb;
+  --vp-c-border: #e5e7eb;
+
+  /* 系统字体栈 */
+  --vp-font-family-base: -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+    'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+  --vp-font-family-mono: 'SF Mono', Monaco, 'Cascadia Code', Consolas, monospace;
+}
+
+.dark {
+  /* 深色模式 - 微蓝沉浸黑 */
+  --vp-c-bg: #0f0f13;
+  --vp-c-bg-alt: #1a1a24;
+  --vp-c-bg-soft: #1a1a24;
+  --vp-c-divider: #2a2a35;
+  --vp-c-border: #2a2a35;
+}
+
+/* 卡片圆角与 hover 阴影 */
+.VPFeature,
+.VPCard,
+.custom-card {
+  border-radius: 12px;
+  border: 1px solid var(--vp-c-divider);
+  transition: all 0.25s ease;
+}
+
+.VPFeature:hover,
+.VPCard:hover,
+.custom-card:hover {
+  box-shadow: 0 6px 20px rgba(20, 184, 166, 0.12);
+  border-color: var(--vp-c-brand-1);
+  transform: translateY(-2px);
+}
+
+/* 首页 Hero 现代化精细排版 */
+.VPHero {
+  padding-top: calc(var(--vp-nav-height, 64px) + 32px) !important;
+  padding-bottom: 48px !important;
+}
+
+.VPHero .container {
+  max-width: 1200px !important;
+  margin: 0 auto !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  gap: 32px !important;
+}
+
+.VPHero .main {
+  flex: 1 1 54% !important;
+  max-width: 580px !important;
+}
+
+.VPHero .name {
+  font-size: 2.8rem !important;
+  line-height: 1.2 !important;
+  letter-spacing: -0.02em !important;
+  background: linear-gradient(135deg, #14b8a6 20%, #0d9488 60%, #0f766e 100%) !important;
+  -webkit-background-clip: text !important;
+  background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  font-weight: 900 !important;
+  margin-bottom: 6px !important;
+}
+
+.VPHero .text {
+  font-size: 2.5rem !important;
+  line-height: 1.2 !important;
+  font-weight: 800 !important;
+  letter-spacing: -0.015em !important;
+  color: #0f172a !important;
+}
+
+.dark .VPHero .text {
+  color: #f8fafc !important;
+}
+
+.VPHero .tagline {
+  color: #475569 !important;
+  font-size: 1.15rem !important;
+  line-height: 1.65 !important;
+  margin-top: 14px !important;
+  font-weight: 500 !important;
+  max-width: 520px !important;
+}
+
+.dark .VPHero .tagline {
+  color: #94a3b8 !important;
+}
+
+/* 按钮微交互与质感 */
+.VPHero .actions {
+  margin-top: 24px !important;
+  gap: 14px !important;
+}
+
+.VPHero .actions .VPButton.brand {
+  background: linear-gradient(135deg, #14b8a6 0%, #0d9488 100%) !important;
+  border: 1px solid #2dd4bf !important;
+  border-radius: 12px !important;
+  padding: 10px 24px !important;
+  font-weight: 700 !important;
+  font-size: 1rem !important;
+  box-shadow: 0 4px 16px rgba(20, 184, 166, 0.35) !important;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+.VPHero .actions .VPButton.brand:hover {
+  transform: translateY(-2px) !important;
+  box-shadow: 0 8px 24px rgba(20, 184, 166, 0.45) !important;
+}
+
+.VPHero .actions .VPButton.alt {
+  border-radius: 12px !important;
+  padding: 10px 24px !important;
+  font-weight: 600 !important;
+  font-size: 1rem !important;
+  border: 1.5px solid var(--vp-c-divider) !important;
+  transition: all 0.25s ease !important;
+}
+
+.VPHero .actions .VPButton.alt:hover {
+  border-color: var(--vp-c-brand-1) !important;
+  color: var(--vp-c-brand-1) !important;
+  transform: translateY(-2px) !important;
+}
+
+/* Hero 右侧图片动效与微发光 */
+.VPHero .image {
+  flex: 1 1 46% !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.VPHero .image-container {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 100% !important;
+  max-width: 480px !important;
+}
+
+.VPHero .image-bg {
+  background: radial-gradient(circle, rgba(20, 184, 166, 0.22) 0%, rgba(20, 184, 166, 0) 70%) !important;
+  filter: blur(35px) !important;
+}
+
+.VPHero .image-src {
+  width: 100% !important;
+  max-width: 480px !important;
+  height: auto !important;
+  filter: drop-shadow(0 16px 32px rgba(15, 118, 110, 0.12)) !important;
+  transition: transform 0.3s ease !important;
+}
+
+.VPHero .image-src:hover {
+  transform: translateY(-3px) scale(1.01) !important;
+}
+
+/* 优惠码复制组件样式 */
+.coupon-box {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background-color: var(--vp-c-bg-alt);
+  border: 1px dashed var(--vp-c-brand-1);
+  border-radius: 8px;
+  padding: 6px 12px;
+  font-family: var(--vp-font-family-mono);
+  font-weight: 600;
+  color: var(--vp-c-brand-2);
+  cursor: pointer;
+  transition: all 0.2s;
+  user-select: none;
+}
+
+.coupon-box:hover {
+  background-color: var(--vp-c-brand-soft);
+  transform: scale(1.02);
+}
+
+.coupon-box .copy-icon {
+  font-size: 0.85em;
+  opacity: 0.8;
+}
+
+/* 响应式表格与容器 */
+.vp-doc table {
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.2rem 0;
+  overflow-x: auto;
+  font-size: 0.95rem;
+}
+
+.vp-doc th, .vp-doc td {
+  padding: 10px 14px;
+  border: 1px solid var(--vp-c-divider);
+}
+
+.vp-doc th {
+  background-color: var(--vp-c-bg-soft);
+  font-weight: 600;
+}
+
+/* 徽章 Badge 样式 */
+.badge-brand {
+  display: inline-block;
+  padding: 2px 8px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  border-radius: 4px;
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1);
+  border: 1px solid rgba(20, 184, 166, 0.3);
+}
+
+/* 移动端间距调优 */
+@media (max-width: 640px) {
+  .vp-doc table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+  }
+}
+
+/* 顶部导航栏 Logo 尺寸限制与防御性样式 */
+.VPNavBarTitle .logo,
+.VPImage.logo,
+.title .logo {
+  height: 36px !important;
+  max-height: 36px !important;
+  width: auto !important;
+  max-width: 160px !important;
+  display: inline-block !important;
+  vertical-align: middle !important;
+  object-fit: contain !important;
+}
+

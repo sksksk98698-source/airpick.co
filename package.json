@@ -1,0 +1,20 @@
+{
+  "name": "airpick-dev",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "AirPick · 2026 机场推荐与深度评测指南 (airpick.co)",
+  "private": true,
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "seo:check": "node scripts/seo-health-check.cjs",
+    "seo:indexnow": "node scripts/indexnow.cjs",
+    "build:safe": "npm run docs:build && npm run seo:check"
+  },
+  "dependencies": {
+    "pagefind": "^1.3.0",
+    "vitepress": "^1.6.3",
+    "vitepress-plugin-pagefind": "^0.3.1"
+  }
+}
